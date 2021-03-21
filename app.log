@@ -81,3 +81,16 @@
 2021-03-20 21:16:38,818 INFO [http-nio-8080-exec-9] c.e.d.c.CartController [CartController.java : 53] Successfully added item to cart
 2021-03-20 21:16:43,476 INFO [http-nio-8080-exec-10] c.e.d.c.CartController [CartController.java : 41] Unable to find user info
 2021-03-20 21:16:47,905 INFO [http-nio-8080-exec-2] c.e.d.c.CartController [CartController.java : 53] Successfully added item to cart
+2021-03-20 22:37:52,063 INFO [main] c.e.d.c.CartController [CartController.java : 53] Successfully added item to cart
+2021-03-20 22:37:52,079 INFO [main] c.e.d.c.CartController [CartController.java : 61] Unable to find user info
+2021-03-20 22:37:52,081 INFO [main] c.e.d.c.CartController [CartController.java : 41] Unable to find user info
+2021-03-20 22:37:52,082 INFO [main] c.e.d.c.CartController [CartController.java : 46] Item with the following id 1 does not exist
+2021-03-20 22:37:52,084 INFO [main] c.e.d.c.CartController [CartController.java : 66] Item with the following id 1 does not exist
+2021-03-20 22:37:52,085 INFO [main] c.e.d.c.CartController [CartController.java : 73] Successfully removed item to cart
+2021-03-20 22:37:52,127 INFO [main] c.e.d.c.OrderController [OrderController.java : 32] Error finding user with username test
+2021-03-20 22:37:52,130 INFO [main] c.e.d.c.OrderController [OrderController.java : 37] Successfully saved order for username test
+2021-03-20 22:37:52,132 INFO [main] c.e.d.c.OrderController [OrderController.java : 45] Error finding user with username test
+2021-03-20 22:37:52,134 INFO [main] c.e.d.c.OrderController [OrderController.java : 48] Successfully got order history for user test
+2021-03-20 22:37:52,153 INFO [main] c.e.d.c.UserController [UserController.java : 54] Successfully created user test
+2021-03-20 22:37:52,154 INFO [main] c.e.d.c.UserController [UserController.java : 49] Error with user password. Cannot create user test
+2021-03-20 22:37:52,157 INFO [main] c.e.d.c.UserController [UserController.java : 49] Error with user password. Cannot create user test
