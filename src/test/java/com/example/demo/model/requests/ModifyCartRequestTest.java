@@ -1,6 +1,7 @@
 package com.example.demo.model.requests;
 
 import org.junit.Before;
+import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
@@ -17,6 +18,7 @@ public class ModifyCartRequestTest {
         modifyCartRequest.setItemId(1);
     }
 
+    @Test
     public void modify_cart_request_test_success_creation() {
         assertNotNull(modifyCartRequest);
         assertEquals("test", modifyCartRequest.getUsername());
